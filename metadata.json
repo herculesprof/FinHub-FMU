@@ -1,0 +1,5 @@
+{
+  "name": "FinHub FMU",
+  "description": "A smart financial assistant powered by Gemini Intelligence to categorize and analyze transactions.",
+  "requestFramePermissions": []
+}
